@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="background_light">#eaeaea</color>
-    <color name="background_dark">#1A1A1A</color>
-    <color name="text_light">#0f0f0f</color>
-    <color name="text_dark">#ffffff</color>
-    <color name="spinner_light">#0f0f0f</color>
-    <color name="spinner_dark">#ffffff</color>
-</resources>
