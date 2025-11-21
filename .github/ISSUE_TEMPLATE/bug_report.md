@@ -22,4 +22,4 @@ assignees: iam-best
 
  - App Version (can be found in the App info at the bottom):
 
-**Anything else you want to tell us:**
+**Anything else you want to tell us (optional):**
