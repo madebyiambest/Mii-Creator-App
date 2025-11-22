@@ -43,7 +43,7 @@ After downloading the app with the theme you want to use on the Mii Creator webs
 On some newer android versions you might need to change additional security settings to download apps outside the Play Store.
 
 ### How to install Updates or change Themes?
-Updates are not downloaded or installed automatically, please join the [Discord](https://discord.gg/dY2CmGw8NR) to get pinged when there's a new update available. Just follow the same steps you followed when you first installed the App.
+Updates are not downloaded or installed automatically, please join the [Discord](https://discord.gg/dY2CmGw8NR) to get pinged when there's a new update available. Just follow the same steps you followed when you first installed the App. You might need to reinstall the App to change Themes if you get an error while updating the App.
 
 ### Where to report issues, suggest something or report bugs?
 You can do this on GitHub directly but you can also do that in the [Discord](https://discord.gg/dY2CmGw8NR) if you prefer that instead.
