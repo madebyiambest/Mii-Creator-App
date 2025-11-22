@@ -9,7 +9,7 @@ An unofficial WebView Mii Creator App for Android
 > This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
 
 Introducing the unofficial Mii Creator Android App!
-Did you ever just want to create, edit or render a Mii but you always had to visit the Mii Creator Website and it took way too long? No...? Well, now it's on your Homescreen as an App on your phone! Yep, you can download and install it right now if you want [here](https://rickroll.com). The project is also open-source so contributing is possible too!
+Did you ever just want to create, edit or render a Mii but you always had to visit the Mii Creator Website and it took way too long? No...? Well, now it's on your Homescreen as an App on your phone! Yep, you can download and install it right now if you want [here](https://github.com/madebyiambest/Mii-Creator-App/releases). The project is also open-source so contributing is possible too!
 
 ## How it works?
 This is basically a small browser that immediately visits the official Mii Creator website inside the app when you open it, with a few small tweaks to make it feel more like an actual app. It's in fullscreen, it has an error page with music, a loading animation and when you click something it doesn't have a blue hover effect! (how cool is that?!)
@@ -33,7 +33,7 @@ Suggestions are appreciated!
 ## FAQ
 Frequenly asked Questions:
 ### How to install it?
-After downloading the app with the theme you want to use on the Mii Creator website, you can download the App [here again](https://rickroll.com). Also, you need to go to your browser downloads and open the .apk file. You might need to allow your browser to install Unknown Apps because it's not on the Play Store cause Nintendo would probably kill me. After giving it the permission, you just need to click install and you're done! (It's easier than it sounds)
+After downloading the app with the theme you want to use on the Mii Creator website, you can download the App [here again](https://github.com/madebyiambest/Mii-Creator-App/releases). Also, you need to go to your browser downloads and open the .apk file. You might need to allow your browser to install Unknown Apps because it's not on the Play Store cause Nintendo would probably kill me. After giving it the permission, you just need to click install and you're done! (It's easier than it sounds)
 On some newer android versions you might need to change additional security settings to download apps outside the Play Store.
 
 ### How to install Updates?
