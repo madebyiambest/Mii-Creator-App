@@ -55,7 +55,7 @@ Your Discord Login is stored on your Device like on probably almost every Browse
 Nope, there's nothing AI generated.
 
 ### How can I support this Project?
-You can contribute on GitHub and help us fix bugs, improve and add new features to the App! You can also subscribe to the official [Mii Creator YouTube Channel](https://youtube.com/@miicreatorreal?si=Sxf5yvBo8bteUDGn) to support them. You can also support me on [here too](https://linktr.ee/iam_best) but please note I only made the app, not the website.
+You can contribute on GitHub and help us fix bugs, improve and add new features to the App! You can also subscribe to the official [Mii Creator YouTube Channel](https://youtube.com/@miicreatorreal?si=Sxf5yvBo8bteUDGn) to support them. You can also support me [here too](https://linktr.ee/iam_best) but please note I only made the app, not the website.
 # Just one more thing...
 Huge thanks to everyone, that posted the same issues they had with Webview, Java and Android Studios that I had while making the App, a lot of code is from the community!
 While making the App I also deleted a lot of personal data with Git accidentally (please don't ask how) so I really appreciate any help since this is also my first Android App! :)
