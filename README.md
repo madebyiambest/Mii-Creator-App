@@ -19,15 +19,21 @@ This is basically a small browser that immediately visits the official Mii Creat
 ## What currently doesn't work:
 - Downloading your Mii's QR Code, Exported Render or anything like that
 - QR Code Scanner when importing a Mii (Not really sure why...)
-- Discord passkey login and on some devices the Password Manager crashes when selecting your saved login (this happened on a Samsung phone for me only, if you have the same issue, please let me know and on what device it's happening on)
-Please don't report the other issues tho, thanks!)
+- Discord passkey login (Use authenticator or Password for now)
+- Music keeps playing in Background (currently intended because the solution I tried causes crash errors and restarts the App every time which is worse in my opinion)
+- Wii U Theme Status bar colors might not look as good because it's a gradient
+- YouTube Links before the Discord login play inside the WebView instead of opening the YouTube App (won't fix because Guest mode is coming soon which removes the link hopefully)
+- When choosing a file or opening a YouTube Link, the App might stop in the background causing the "Lost Connection to Mii Creator" Error
+- When the "Lost Connection to Mii Creator" Error happens, you can see the default Video play button for less than a second in the Background
+- When rotating the Device, changing from Light mode to Dark mode or the other way around the App reloads and Music will overlap for a while
+Please don't report these Issues, thanks!
 
 ## What's planned:
 - Instead of different versions of themes, the app should automatically detect your currently applied theme
 - Discord login inside your default browser instead of the app
 - Support different languages
 - Rewriting the Main Java code to Kotlin
-- Fix the current issues (obviously)
+- Fix the current Issues (obviously)
 Suggestions are appreciated!
 
 ## FAQ
