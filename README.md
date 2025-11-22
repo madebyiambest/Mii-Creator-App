@@ -26,6 +26,7 @@ This is basically a small browser that immediately visits the official Mii Creat
 - When choosing a file or opening a YouTube Link, the App might stop in the background causing the "Lost Connection to Mii Creator" Error
 - When the "Lost Connection to Mii Creator" Error happens, you can see the default Video play button for less than a second in the Background
 - When rotating the Device, changing from Light mode to Dark mode or the other way around the App reloads and Music will overlap for a while
+- On Samsung Devices, some Themes such as Switch 2 might not show the "Connecting to Mii Creator..." Text while Loading
 Please don't report these Issues, thanks!
 
 ## What's planned:
