@@ -60,5 +60,5 @@ You can contribute on GitHub and help us fix bugs, improve and add new features 
 Huge thanks to everyone, that posted the same issues they had with Webview, Java and Android Studios that I had while making the App, a lot of code is from the community!
 While making the App I also deleted a lot of personal data with Git accidentally (please don't ask how) so I really appreciate any help since this is also my first Android App! :)
 
-If Mii Creator, Nintendo or you have any questions about this Project or any requests please contact me [here](iam_best_dev@proton.me).
+If Mii Creator, Nintendo or you have any questions about this Project or any requests please contact me [here](mailto:iam_best_dev@proton.me).
 ###### Mii Creator and Nintendo are NOT affliated with this project or with I'am best in any way.
