@@ -8,6 +8,9 @@ An unofficial WebView Mii Creator App for Android
 > [!NOTE]  
 > This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
 
+> [!IMPORTANT]
+> There's a known issue that you aren't able to accept the Mii Creator Discord Invite Link inside the App. If this is the first time you used Mii Creator, join the Server using this link: https://discord.com/invite/ydSkdXzZCq
+
 Introducing the unofficial Mii Creator Android App!
 Did you ever just want to create, edit or render a Mii but you always had to visit the Mii Creator Website and it took way too long? No...? Well, now it's on your Homescreen as an App on your phone! Yep, you can download and install it right now if you want [here](https://github.com/madebyiambest/Mii-Creator-App/releases). The project is also open-source so contributing is possible too!
 
