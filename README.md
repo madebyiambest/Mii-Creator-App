@@ -34,6 +34,8 @@ This is basically a small browser that immediately visits the official Mii Creat
 Please don't report these Issues, thanks!
 
 ## What's planned:
+- Offline support
+- Better loading times by saving the website locally
 - Instead of different versions of themes, the app should automatically detect your currently applied theme
 - Discord login inside your default browser instead of the app
 - Support different languages
