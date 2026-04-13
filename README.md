@@ -56,7 +56,7 @@ Updates are not downloaded or installed automatically, please join the [Discord]
 You can do this on GitHub directly but you can also do that in the [Discord](https://discord.gg/dY2CmGw8NR) if you prefer that instead.
 
 ### Isn't this just a web app?
-Yesn't, it's pretty much just a web app with a few tweaks that are mentioned in the Introduction above.
+Yesn't, it's pretty much just a web app with a few tweaks that are mentioned in the Introductions above.
 
 ### Will there be support for Windows, MacOS, Linux or iOS?
 Probably not, you can already add the Mii Creator Website as a web app on those devices but on Android, you can only add it to the Homescreen and it still opens inside the browser. I will consider it if the project gets more popular but I'm still new to this so I have to figure that out too.
