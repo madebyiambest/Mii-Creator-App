@@ -1,4 +1,4 @@
-<img width="2551" height="729" alt="1000196393" src="https://github.com/user-attachments/assets/1622d299-b288-427a-b508-fc0d04d3e17e"> 
+<img alt="The unofficial Mii Creator Android App" src="https://github.com/user-attachments/assets/1622d299-b288-427a-b508-fc0d04d3e17e"> 
 
 ###### Image by Mii Creators, I only added the Android App text
 
