@@ -17,7 +17,7 @@ Did you ever just want to create, edit or render a Mii but you always had to vis
 ## How it works?
 This is basically a small browser that immediately visits the official Mii Creator website inside the app when you open it, with a few small tweaks to make it feel more like an actual app. It's in fullscreen, it has an error page with music, a loading animation and when you click something it doesn't have a blue hover effect! (how cool is that?!)
 
-<img width="2560" height="1440" alt="1000247043" src="https://github.com/user-attachments/assets/d78bd62a-93a0-4127-86e9-8dadc80a2f9c" />
+<img alt="How it connects" src="https://github.com/user-attachments/assets/d78bd62a-93a0-4127-86e9-8dadc80a2f9c" />
 
 ## What currently doesn't work:
 - Downloading your Mii's QR Code, Exported Render or anything like that
