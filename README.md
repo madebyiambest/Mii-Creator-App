@@ -6,7 +6,7 @@
 An unofficial WebView Mii Creator App for Android
 
 > [!NOTE]  
-> This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
+> Updates are coming soon! Please be patient, I'm working on stuff behind the scenes. This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
 
 > [!IMPORTANT]
 > There's a known issue that you aren't able to accept the Mii Creator Discord Invite Link inside the App. If this is the first time you used Mii Creator, join the Server using this link: https://discord.com/invite/ydSkdXzZCq
@@ -62,9 +62,6 @@ Probably not, you can already add the Mii Creator Website as a web app on those 
 
 ### How is my Discord Login stored?
 Your Discord Login is stored on your Device like on probably almost every Browser, it's not getting sent to me, in fact, nothing what you're doing inside the App is getting sent to me!
-
-### Does this contain AI generated code, images or anything else?
-Nope, there's nothing AI generated.
 
 ### How can I support this Project?
 You can contribute on GitHub and help us fix bugs, improve and add new features to the App! You can also subscribe to the official [Mii Creator YouTube Channel](https://youtube.com/@miicreatorreal?si=Sxf5yvBo8bteUDGn) to support them. You can also support me [here too](https://linktr.ee/iam_best) but please note I only made the app, not the website.
