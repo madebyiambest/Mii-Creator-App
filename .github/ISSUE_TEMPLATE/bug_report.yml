@@ -92,6 +92,5 @@ body:
       label: "Additional context"
       description: Please mention additional context if you have any!
       placeholder: The button only causes a crash when i hold it.
-      render: bash
     validations:
       required: false
