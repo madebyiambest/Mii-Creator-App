@@ -60,6 +60,8 @@ body:
         - Huawei
         - LG?
         - Other
+    validations:
+      required: true
         
   - type: input
     id: androidversion
