@@ -61,7 +61,7 @@ body:
         - Huawei
         - LG?
         - Other
-
+        
   - type: input
     id: androidversion
     attributes:
@@ -71,7 +71,7 @@ body:
     validations:
       required: true
 
- - type: input
+  - type: input
     id: appversion
     attributes:
       label: "App Version"
