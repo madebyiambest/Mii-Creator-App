@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: files
     attributes:
-      label: "Screenshot"
+      label: "Screenshot/Screenrecording"
       description: If applicable, add a screenshot or screen recording to help explain your problem!
       placeholder: Click add Files to upload a Screenshot or Screen recording.
       render: bash
@@ -87,3 +87,12 @@ body:
       placeholder: Please don't just type "Latest".
     validations:
       required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Any additional context you want to mention?"
+      description: Please write additional context if you have any!
+      placeholder: The button only causes a crash when i hold it.
+      render: bash
+    validations:
+      required: false
