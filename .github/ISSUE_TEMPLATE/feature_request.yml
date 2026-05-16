@@ -1,0 +1,32 @@
+name: "Feature Request"
+description: Create a Feature Request
+title: "[FEATURE] "
+labels: [
+  "enhancement"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: What’s your suggestion?
+      placeholder: I want this button to be green and not blue!
+    validations:
+      required: true
+  - type: textarea
+    id: concept
+    attributes:
+      label: "Concept"
+      description: If you have any concepts or design ideas then please put them here!
+      placeholder: The green should be exactly like this #14A556.
+    validations:
+      required: false
+   - type: textarea
+    id: context
+    attributes:
+      label: "Additional context"
+      description: Please mention additional context if you have any!
+      placeholder: The button should cause a crash when you hold it.
+    validations:
+      required: false
+  
