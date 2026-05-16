@@ -79,7 +79,6 @@ body:
       placeholder: Android 16 Stable Release
     validations:
       required: true
-
   - type: input
     id: appversion
     attributes:
