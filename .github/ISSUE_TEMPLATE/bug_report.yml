@@ -35,7 +35,7 @@ body:
       render: bash
     validations:
       required: false
-- type: textarea
+  - type: textarea
     id: expected
     attributes:
       label: "Expected Behavior"
