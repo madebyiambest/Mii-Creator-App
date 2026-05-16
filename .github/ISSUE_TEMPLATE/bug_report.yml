@@ -35,6 +35,15 @@ body:
       render: bash
     validations:
       required: false
+- type: textarea
+    id: files
+    attributes:
+      label: "Expected Behavior"
+      description: Please explain how it's supposed to work!
+      placeholder: Instead of crashing, the button should redirect to login.
+      render: bash
+    validations:
+      required: true
   - type: dropdown
     id: brand
     attributes:
