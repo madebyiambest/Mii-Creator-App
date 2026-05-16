@@ -74,7 +74,7 @@ body:
     id: appversion
     attributes:
       label: "App Version"
-      description: What version of the App are you running? You can find it in Settings -> Apps-> Mii Creator App and then scroll down!
+      description: What version of the App are you running? You can find it in Settings -> Apps-> Mii Creator and then scroll down!
       placeholder: Please don't just type "Latest".
     validations:
       required: true
