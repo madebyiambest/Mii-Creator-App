@@ -27,12 +27,11 @@ body:
     validations:
       required: true
   - type: textarea
-    id: screenshot
+    id: files
     attributes:
-      label: "Screenshots"
-      description: If applicable, add screenshots to help explain your problem.
-      value: |
-        Click add Files to upload a Screenshot or Screen recording.
+      label: "Screenshot"
+      description: If applicable, add a screenshot or screen recording to help explain your problem!
+      placeholder: Click add Files to upload a Screenshot or Screen recording.
       render: bash
     validations:
       required: false
