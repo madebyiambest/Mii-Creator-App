@@ -1,0 +1,81 @@
+name: "Bug Report"
+description: Create a bug report
+title: "[BUG] - <title>"
+labels: [
+  "bug"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: What bug  are you experiencing?
+      placeholder: The App crashes when I press this button!
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "Steps to Reproduce"
+      description: How to reproduce this issue?
+      value: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshots"
+      description: If applicable, add screenshots to help explain your problem.
+      value: |
+        Click add Files to upload a Screenshot or Screen recording.
+      render: bash
+    validations:
+      required: false
+  - type: dropdown
+    id: brand
+    attributes:
+      label: "Device Brand"
+      description: On what Device(s) are you experiencing this issue?
+      multiple: true
+      options:
+        - Samsung
+        - Google Pixel
+        - Xiaomi/Realme
+        - Nothing
+        - Oppo
+        - Vivo
+        - OnePlus
+        - Motorola
+        - Asus
+        - Nokia
+        - Acer
+        - Sony
+        - Fairphone
+        - OUKITEL
+        - Honor
+        - Huawei
+        - LG?
+        - Other
+
+- type: input
+    id: androidversion
+    attributes:
+      label: "Android Version"
+      description: What version of Android are you running? [How do I check?](https://support.google.com/android/answer/7680439?hl=en)
+      placeholder: Android 16 Stable Release
+    validations:
+      required: true
+
+- type: input
+    id: appversion
+    attributes:
+      label: "App Version"
+      description: What version of the App are you running? [How do I check?](https://support.google.com/accounts/answer/9503395?hl=en&co=GENIE.Platform%3DAndroid)
+      placeholder: Please don't just type "Latest".
+    validations:
+      required: true
