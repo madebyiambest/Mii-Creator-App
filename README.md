@@ -22,7 +22,7 @@ This is basically a small browser that immediately visits the official Mii Creat
 ## What currently doesn't work:
 - Downloading your Mii's QR Code, Exported Render or anything like that
 - QR Code Scanner when importing a Mii (Not really sure why...)
-- Discord passkey login (Use authenticator or Password for now)
+- Discord passkey login (unfixable)
 - Music keeps playing in Background (currently intended because the solution I tried causes crash errors and restarts the App every time which is worse in my opinion)
 - Wii U Theme Status bar colors might not look as good because it's a gradient
 - YouTube Links before the Discord login play inside the WebView instead of opening the YouTube App (won't fix because Guest mode is coming soon which removes the link hopefully)
