@@ -9,7 +9,7 @@ body:
     id: description
     attributes:
       label: "Description"
-      description: What bug  are you experiencing?
+      description: What bug are you experiencing?
       placeholder: The App crashes when I press this button!
     validations:
       required: true
@@ -62,7 +62,7 @@ body:
         - LG?
         - Other
 
-- type: input
+  - type: input
     id: androidversion
     attributes:
       label: "Android Version"
@@ -71,7 +71,7 @@ body:
     validations:
       required: true
 
-- type: input
+ - type: input
     id: appversion
     attributes:
       label: "App Version"
