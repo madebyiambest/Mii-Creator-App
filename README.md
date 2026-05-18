@@ -6,7 +6,7 @@
 An unofficial WebView Mii Creator App for Android
 
 > [!NOTE]  
-> Updates are coming soon! Please be patient, I'm working on stuff behind the scenes. This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
+> Updates are coming soon! Please be patient, I'm working on stuff behind the scenes. This is still in early access and things may break at any time, the current Java code is stable enough but still a mess and will be rewritten to Kotlin in the next Update.
 
 > [!IMPORTANT]
 > There's a known issue that you aren't able to accept the Mii Creator Discord Invite Link inside the App. If this is the first time you used Mii Creator, join the Server using this link: https://discord.com/invite/ydSkdXzZCq
