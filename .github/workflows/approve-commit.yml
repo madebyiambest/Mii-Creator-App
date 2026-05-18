@@ -1,0 +1,11 @@
+name: Approval required before commiting
+
+on: [push]
+
+jobs:
+  notify-and-approve:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Approved
+        run: echo "Commit has been approved"
