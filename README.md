@@ -6,7 +6,7 @@
 An unofficial WebView Mii Creator App for Android
 
 > [!NOTE]  
-> Updates are coming soon! Please be patient, I'm working on stuff behind the scenes. This is still in early access and things may break at any time, the current code is stable enough but still a bit of a mess and is planned to be rewritten from Java to Kotlin in the future.
+> Updates are coming soon! Please be patient, I'm working on stuff behind the scenes. This is still in early access and things may break at any time, the current Java code is stable enough but still a mess and will be rewritten to Kotlin in the next Update.
 
 > [!IMPORTANT]
 > There's a known issue that you aren't able to accept the Mii Creator Discord Invite Link inside the App. If this is the first time you used Mii Creator, join the Server using this link: https://discord.com/invite/ydSkdXzZCq
@@ -14,6 +14,63 @@ An unofficial WebView Mii Creator App for Android
 Introducing the unofficial Mii Creator Android App!
 Did you ever just want to create, edit or render a Mii but you always had to visit the Mii Creator Website and it took way too long? No...? Well, now it's on your Homescreen as an App on your phone! Yep, you can download and install it right now if you want [here](https://github.com/madebyiambest/Mii-Creator-App/releases). The project is also open-source so contributing is possible too!
 
+## How it works?
+This is basically a small browser that immediately visits the official Mii Creator website inside the app when you open it, with a few small tweaks to make it feel more like an actual app. It's in fullscreen, it has an error page with music, a loading animation and when you click something it doesn't have a blue hover effect! (how cool is that?!)
+
+<img alt="How it connects" src="https://github.com/user-attachments/assets/d78bd62a-93a0-4127-86e9-8dadc80a2f9c" />
+
+## What currently doesn't work:
+- Downloading your Mii's QR Code, Exported Render or anything like that
+- QR Code Scanner when importing a Mii (Not really sure why...)
+- Discord passkey login (unfixable)
+- Music keeps playing in Background (currently intended because the solution I tried causes crash errors and restarts the App every time which is worse in my opinion)
+- Wii U Theme Status bar colors might not look as good because it's a gradient
+- YouTube Links before the Discord login play inside the WebView instead of opening the YouTube App (won't fix because Guest mode is coming soon which removes the link hopefully)
+- When choosing a file or opening a YouTube Link, the App might stop in the background causing the "Lost Connection to Mii Creator" Error
+- When the "Lost Connection to Mii Creator" Error happens, you can see the default Video play button for less than a second in the Background
+- When rotating the Device, changing from Light mode to Dark mode or the other way around will cause the App to reload and Music will overlap for a while
+- On Samsung Devices, some Themes such as Switch 2 might not show the "Connecting to Mii Creator..." Text while Loading
+
+Please don't report these Issues, thanks!
+
+## What's planned:
+- Better loading times by saving the website locally
+- Instead of different versions of themes, the app should automatically detect your currently applied theme
+- Discord login inside your default browser instead of the app
+- Support different languages
+- Rewriting the Main Java code to Kotlin
+- Fix the current Issues (obviously)
+Suggestions are appreciated!
+
+## FAQ
+Frequently asked Questions:
+### How to install it?
+After downloading the app with the theme you want to use on the Mii Creator website, you can download the App [here again](https://github.com/madebyiambest/Mii-Creator-App/releases). Also, you need to go to your browser downloads and open the .apk file. You might need to allow your browser to install Unknown Apps because it's not on the Play Store cause Nintendo would probably kill me. After giving it the permission, you just need to click install and you're done! (It's easier than it sounds)
+On some newer android versions you might need to change additional security settings to download apps outside the Play Store.
+
+### How to install Updates or change Themes?
+Updates are not downloaded or installed automatically, please join the [Discord](https://discord.gg/dY2CmGw8NR) to get pinged when there's a new update available. Just follow the same steps you followed when you first installed the App. You might need to reinstall the App to change Themes if you get an error while updating the App.
+
+### Where to report issues, suggest something or report bugs?
+You can do this on GitHub directly but you can also do that in the [Discord](https://discord.gg/dY2CmGw8NR) if you prefer that instead.
+
+### Isn't this just a web app?
+Yesn't, it's pretty much just a web app with a few tweaks that are mentioned in the Introductions above.
+
+### Will there be support for Windows, MacOS, Linux or iOS?
+Probably not, you can already add the Mii Creator Website as a web app on those devices but on Android, you can only add it to the Homescreen and it still opens inside the browser. I will consider it if the project gets more popular but I'm still new to this so I have to figure that out too.
+
+### How is my Discord Login stored?
+Your Discord Login is stored on your Device like on probably almost every Browser, it's not getting sent to me, in fact, nothing what you're doing inside the App is getting sent to me!
+
+### How can I support this Project?
+You can contribute on GitHub and help us fix bugs, improve and add new features to the App! You can also subscribe to the official [Mii Creator YouTube Channel](https://youtube.com/@miicreatorreal?si=Sxf5yvBo8bteUDGn) to support them. You can also support me [here too](https://linktr.ee/iam_best) but please note I only made the app, not the website.
+# Just one more thing...
+Huge thanks to everyone, that posted the same issues they had with Webview, Java and Android Studios that I had while making the App, a lot of code is from the community!
+While making the App I also deleted a lot of personal data with Git accidentally (please don't ask how) so I really appreciate any help since this is also my first Android App! :)
+
+If Mii Creator, Nintendo or even you have any questions about this Project or any requests please contact me [here](mailto:iam_best_dev@proton.me).
+###### Mii Creator and Nintendo are NOT affliated with this project or with I'am best in any way.
 ## How it works?
 This is basically a small browser that immediately visits the official Mii Creator website inside the app when you open it, with a few small tweaks to make it feel more like an actual app. It's in fullscreen, it has an error page with music, a loading animation and when you click something it doesn't have a blue hover effect! (how cool is that?!)
 
